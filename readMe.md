@@ -73,4 +73,4 @@ NFT = Non Fungible(not replacable by another identical item) Token
 
 => IPFS is a peer-to-peer file system that provides a way to store and retrieve any kind of digital content, very similar to the way bitorrent works.
 
-=>There are even databases built on top of IPFS like ThreadDb, which is like a peer to peer version of mongoDB.
+=>There are even databases built on top of IPFS like Thread DB, which is like a peer to peer version of mongo DB.
