@@ -61,4 +61,13 @@ NFT = Non Fungible(not replacable by another identical item) Token
 
 ## Smart Contracts
 
+=>Smart contracts are simply programs stored on a blockchain that run when predetermined conditions are met. They typically are used to automate the execution of an agreement/transaction so that all participants can be immediately certain of the outcome, without any intermediary’s involvement or time loss.
+=> An example of a language used to write smart contracts for a blockchain apps is Solidity, which has a similar syntax as JavaScript.
+=> For testing smart contracts we can use various libraries like Waffle, Truffle(yes these are testing libraries) etc.
+
 ## IPFS (Interplanetary file system)
+
+=>IPFS is a file sharing system that can be leveraged to more efficiently store and share large files. It relies on cryptographic hashes that can easily be stored on a blockchain.
+=> IPFS is a peer-to-peer file system that provides a way to store and retrieve any kind of digital content, very similar to the way bitorrent works.
+=>There are even databases built on top of IPFS like ThreadDb, which is like a peer to peer version of mongoDB.
+=>
