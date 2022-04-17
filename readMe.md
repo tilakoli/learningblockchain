@@ -27,7 +27,7 @@ to share money and information without the need for a middleman like a bank maki
 => etherium is like a giant network of computers where all the nodes agree on the same state of the data
 throughout the network.
 
-=> Where Ether is the cryptocurrency in this etherium network which is used to create transactions that change
+=> Where Ether is the cryptocurrency in the etherium network which is used to create transactions that change
 the state of the data, when we broadcast a transaction we also offer up a small amount of Ether which provides incentive for another computer in the network to execute the transaction aka gas fee.
 
 => Normally when we build a web application we write some code then deploy it to a centralized server like aws
